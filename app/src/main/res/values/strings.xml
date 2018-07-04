@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="tipos">
+        <item>Celular</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
+    </array>
+    <array name="estado">
+        <item>AC</item>
+        <item>AL</item>
+        <item>AP</item>
+        <item>AM</item>
+        <item>BA</item>
+        <item>CE</item>
+        <item>DF</item>
+        <item>ES</item>
+        <item>GO</item>
+        <item>MA</item>
+        <item>MT</item>
+        <item>MS</item>
+        <item>PA</item>
+        <item>PB</item>
+        <item>PR</item>
+        <item>PE</item>
+        <item>PI</item>
+        <item>RJ</item>
+        <item>RN</item>
+        <item>RS</item>
+        <item>RO</item>
+        <item>RR</item>
+        <item>SC</item>
+        <item>SP</item>
+        <item>SE</item>
+        <item>TO</item>
+    </array>
+
+    <array name="genero">
+        <item>Não declarar</item>
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </array>
+    
+    <array name="estadocivil">
+        <item>Solteiro(a)</item>
+        <item>Divorciado(a)</item>
+        <item>Casado(a)</item>
+    </array>
+</resources>
